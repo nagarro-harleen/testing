@@ -1,0 +1,8 @@
+com\foodie\controller\FoodieWorld.class
+com\foodie\service\impl\FoodServiceImpl.class
+com\foodie\service\FoodService.class
+com\foodie\model\FoodItem.class
+com\foodie\form\FoodRecipeForm.class
+com\foodie\model\CachedFoodItem.class
+com\foodie\dao\impl\FoodDaoImpl.class
+com\foodie\dao\FoodDao.class

@@ -1,0 +1,74 @@
+.description p {
+	margin-bottom: 1px !important;
+}
+
+.description p .heading {
+	margin-top: 5px !important;
+	font: 26px Arial, Helvetica, sans-serif;
+}
+
+.description p .text-wrp {
+	font: 18px Arial, Helvetica, sans-serif;
+}
+
+.portfolio .grid_6 img {
+	width: 440px !important;
+	height: 351px !important;
+}
+
+.grid_7 .news img {
+	width: 530px !important;
+	height: 350px !important;
+	margin-bottom: 20px;
+}
+
+.grid_12 .welcome.jsp img {
+	width: 209px !important;
+	height: 131px !important;
+}
+
+p.txt-center {
+	text-align: center;
+}
+
+.upl-rep li {
+	margin-bottom: 20px;
+}
+
+.upl-rep input[type=text], textarea {
+	border-color: white;
+	width: 500px;
+	height: 25px;
+	padding-left: 5px;
+	height: 25px;
+}
+
+.upl-rep li.desc textarea {
+	height: 150px;
+	padding-top: 4px;
+	border-color: white !important;
+	border-style: inset !important;
+	font: 13.3333px Arial, Helvetica, sans-serif !important;
+	border-width: 2px !important;
+}
+
+.grid_7 .page1_block img {
+	width: 200px;
+	height: 200px;
+	border-color: white;
+	border-width: 4px;
+	border-style: solid;
+	border-radius: 100px;
+}
+
+form .error {
+	color: #79302b;
+}
+
+p.failure-msg {
+	color: #79302b;
+}
+
+p.success-msg {
+	color: #5fa022;
+}
